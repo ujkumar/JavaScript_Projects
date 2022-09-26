@@ -1,0 +1,30 @@
+#loancal{
+    width: 375px;
+    height: 295px;
+    background-color: #000;
+    color: #fff;
+    margin-left: 275px;
+    margin-top: 95px;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+
+
+#month_to_pay{
+    margin-left: 12px;
+    width: 175px;
+    height: 20px;
+}
+#intrest_rate{
+    margin-left: 35px;
+    width: 175px;
+    height: 20px;
+}
+#amount{
+    width: 175px;
+    height: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
